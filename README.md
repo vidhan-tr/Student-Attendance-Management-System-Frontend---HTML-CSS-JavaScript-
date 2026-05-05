@@ -4,6 +4,8 @@ A simple and efficient Student Attendance Management System built using vanilla 
 This project allows users to add students, mark attendance (Present/Absent), and store all data in the browser using localStorage, ensuring persistence even after page refresh.
 
 
+
+
 🚀 Features
 ➕ Add new students with auto-generated roll numbers
 📅 Select date to mark attendance
@@ -12,11 +14,14 @@ This project allows users to add students, mark attendance (Present/Absent), and
 🔄 Persistent data even after page reload
 🗑️ Option to delete/update data (extendable)
 ⚡ Dynamic UI updates without page refresh
+
+
+
 🛠️ Tech Stack
 HTML – Structure
 CSS – Styling
-JavaScript (Vanilla JS) – Logic & DOM manipulation
-localStorage API – Data persistence
+JavaScript – Logic & DOM manipulation
+
 
 
 🧠 How It Works
